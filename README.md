@@ -1,7 +1,10 @@
 # docassemble.alienists
 
-A docassemble extension.
+A docassemble extension for the creation of psychological and psychiatric expert witness reports.
 
 ## Author
 
-Andrew Nanton, nanton@thealienists.org
+Andrew Nanton, md
+nanton@thealienists.org
+The League of Consulting Alienists
+

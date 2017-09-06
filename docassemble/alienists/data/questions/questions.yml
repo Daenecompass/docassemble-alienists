@@ -1,9 +1,9 @@
 ---
 metadata:
-  title: I am the title of the application
-  short title: Mobile title
+  title: Competency to Stand Trial
+  short title: CST
   description: |
-    Insert description of question file here.
+    Creates a competency to stand trial report.
   authors:
     - name: Andrew Nanton
       organization: The League of Consulting Alienists
@@ -26,4 +26,14 @@ buttons:
 ---
 question: Are you doing well today?
 yesno: user_doing_well
+---
+question: Is the evaluee male or female?
+field: evaluee_gender
+choices:
+  - male
+  - female
+---
+
+
 ...
+ content: |
